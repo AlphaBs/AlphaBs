@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=github,dotnet)](https://skillicons.dev)
+![HelloWorld](https://placehold.co/600x100/467ec6/ffffff?text=Hello%20World)
 
 <!--
 **AlphaBs/AlphaBs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
